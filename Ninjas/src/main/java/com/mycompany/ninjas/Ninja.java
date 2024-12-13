@@ -139,7 +139,7 @@ public class Ninja {
             int rowsAffected = ninjas.executeUpdate();
 
             if (rowsAffected > 0) {
-                System.out.println("Producto actualizado exitosamente.");
+                System.out.println("ninja actualizado exitosamente.");
             } else {
                 System.out.println("No se encontró el ninja con el documento especificado.");
             }
