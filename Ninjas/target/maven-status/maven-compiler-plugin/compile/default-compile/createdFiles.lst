@@ -1,3 +1,11 @@
-com/mycompany/ninjas/conexion$Conexion.class
-com/mycompany/ninjas/Ninjas.class
+com/mycompany/ninjas/Mision.class
+com/mycompany/ninjas/MenusRegistro.class
+com/mycompany/ninjas/main.class
+com/mycompany/ninjas/MenusEditar.class
+com/mycompany/ninjas/DIficultad.class
+com/mycompany/ninjas/Habilidad.class
+com/mycompany/ninjas/Aldea.class
+com/mycompany/ninjas/Rango.class
 com/mycompany/ninjas/conexion.class
+com/mycompany/ninjas/conexion$Conexion.class
+com/mycompany/ninjas/Ninja.class
