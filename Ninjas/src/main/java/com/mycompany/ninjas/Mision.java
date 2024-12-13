@@ -89,8 +89,8 @@ public class Mision {
         try (PreparedStatement testamento = conector.prepareStatement(consulta); ResultSet resultado = testamento.executeQuery();) {
 
             while (resultado.next()) {
-                int id = resultado.getInt("id_msion");
-                String nombre = resultado.getString("nombre");
+                int id = resultado.getInt("id_mision");
+                String nombre = resultado.getString("nombre_mision");
                 int rango = resultado.getInt("id_dificultad");
                 String aldea = resultado.getString("recompensa");
 

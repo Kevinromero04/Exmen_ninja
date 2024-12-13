@@ -53,7 +53,7 @@ public class Habilidad {
 
             while (resultado.next()) {
                 int id = resultado.getInt("id_habilidad");
-                String nombre = resultado.getString("nombre_aldea");
+                String nombre = resultado.getString("nombre_habilidad");
 
                 System.out.println("**********habilidades***************");
                 System.out.println("Id: " + id);
